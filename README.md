@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/89291715/196051228-327f4125-19d1-4baa-ae96-249c5dad9f50.png)
+/*![logo](https://user-images.githubusercontent.com/89291715/196051228-327f4125-19d1-4baa-ae96-249c5dad9f50.png)*/
 
 <h1 align="center">Hi 👋, I'm Ruturaj Deshmukh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
